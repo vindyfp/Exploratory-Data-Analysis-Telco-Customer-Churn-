@@ -6,11 +6,11 @@ project dibuat dalam rangka memenuhi tugas bootcamp dibimbing
 The Data can be download here :https://github.com/vindyfp/Exploratory-Data-Analysis-Telco-Customer-Churn-/blob/main/WA_Fn-UseC_-Telco-Customer-Churn.csv
 ## EDA Steps
 1. Data Cleansing
-  - Missing Data
-  - Duplicated data
+    - Missing Data
+    - Duplicated data
 2. Data Understanding
-  - Statistical summary of each column
-  - Univariate analysis
-  - Multivariate analysis
+    - Statistical summary of each column
+    - Univariate analysis
+    - Multivariate analysis
 3. Deep dive questions
 4. Answer the questions

@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-Telco-Customer-Churn
+# Exploratory Data Analysis-Telco Customer Churn
 project dibuat dalam rangka memenuhi tugas bootcamp dibimbing
 ## Overview
 Exploration Data Analysis on the Telco Customer Churn dataset with the aim of understanding the data and seeking insight from the data set

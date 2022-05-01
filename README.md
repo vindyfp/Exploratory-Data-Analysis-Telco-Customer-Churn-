@@ -1,7 +1,7 @@
-# Exploratory-Data-Analysis-Telco-Customer-Churn-
+# Exploratory-Data-Analysis-Telco-Customer-Churn
 project dibuat dalam rangka memenuhi tugas bootcamp dibimbing
 ## Overview
-
+Exploration Data Analysis on the Telco Customer Churn dataset with the aim of understanding the data and seeking insight from the data set
 ## The Data
 The Data can be download here :https://github.com/vindyfp/Exploratory-Data-Analysis-Telco-Customer-Churn-/blob/main/WA_Fn-UseC_-Telco-Customer-Churn.csv
 ## EDA Steps
